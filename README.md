@@ -1,5 +1,5 @@
 # 🖥️ Malicious System Monitor
-
+**Created by Malicious : @M4lic1ous**
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.6+-blue.svg)
@@ -83,8 +83,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/M4lic1ous/system-monitor.git
-cd system-monitor
+git clone https://github.com/M4lic1ous/Sys_Info.git
+cd Sys_Info
 
 # Make script executable
 chmod +x monitor.py
