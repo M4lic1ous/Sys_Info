@@ -9,7 +9,7 @@
 **A powerful System Information viewer**
 
 </div>
-(https://raw.githubusercontent.com/M4lic1ous/Sys_Info/refs/heads/main/IMG_20260726_215937_346.png)
+(https://raw.githubusercontent.com/M4lic1ous/Sys_Info/refs/heads/main/IMG_20260726_215937_346.jpg)
 ---
 ## 📋 Features
 
