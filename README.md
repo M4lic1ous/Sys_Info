@@ -8,8 +8,6 @@
 
 **A powerful System Information viewer**
 
-[Features](#features) • [Installation](#installation) • [Usage](#usage) • [Screenshots](#screenshots) • [API](#api) • [License](#license)
-
 </div>
 
 ---
